@@ -39,7 +39,7 @@ header nav {
 }
 
 .nav-menu li {
-    margin: 10px 0;
+    margin: 10px 5px;
 }
 
 .nav-menu li a {
@@ -67,7 +67,6 @@ header nav {
     .nav-menu {
         display: flex; /* Show menu by default for larger screens */
         flex-direction: row;
-        row-gap: 20px
     }
 
     .menu-toggle {
