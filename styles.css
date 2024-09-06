@@ -67,6 +67,7 @@ header nav {
     .nav-menu {
         display: flex; /* Show menu by default for larger screens */
         flex-direction: row;
+        row-gap: 20px
     }
 
     .menu-toggle {
